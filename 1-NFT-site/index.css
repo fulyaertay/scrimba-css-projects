@@ -10,16 +10,6 @@ header{
     padding: 45px 0;
 }
 
-/* 
-Challenge:
-1. Add CSS so the text in the first section 
-   renders correctly. 
-⚠️ Watch out for the amount of white space 
-   you have between the start of the section 
-   and the h2.
-⚠️ Don't write too much code!
-*/
-
 h1{
     color: whitesmoke;
     font-size: 36px;
@@ -36,11 +26,32 @@ h3{
     margin:0;
 }
 
+/* 
+Challenge:
+1. Set the color of the link in the paragraph.
+2. Make the link color change on hover and 
+   active states.
+3. Search online to find out how you can give 
+   the underline a dotted appearance. 
+*/
+
+a{
+    color: #ef5839;
+    text-decoration: underline dotted;
+}
+
+a:hover{
+    color: #d4b44c;
+}
+
+a:active{
+    color: #d4b44c;
+}
 
 section{
     padding: 45px 0;
 }
 
 .main-image{
-    width: 100%;
+    width:100%;
 }
