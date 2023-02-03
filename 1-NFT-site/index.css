@@ -40,13 +40,17 @@ a:active{
 
 /* layout */
 
+
 /* 
 Challenge:
-1. Change the background color of this 
-   section, remembering to make sure 
-   the color covers 100% of the width.
-2. Change the font color for all text in 
-   this section.
+1. Give the images in section two a class.
+2. Use that class to set the width and 
+   border-radius for the images.
+3. Wrap the two images in a container div 
+   and give it a class.
+4. Create the CSS selector for that class 
+   and use flex-box to layout the images
+   as shown in the slide.
 */
 
 header{
@@ -72,4 +76,12 @@ section{
     width:100%;
 }
 
+.feature-image{
+    width: 300px;
+    border-radius: 4.6px;
+}
 
+.section-two-image-container{
+    display: flex;
+    justify-content: space-between;
+}
