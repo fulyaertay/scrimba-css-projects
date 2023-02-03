@@ -1,3 +1,10 @@
+/* 
+Challenge:
+1. Use comments to divide up the CSS
+   into segments.
+⚠️ Don't use too many comments!
+*/
+
 body{
     font-size: 16px;
     color: #2b283a;
@@ -5,10 +12,7 @@ body{
     margin: 0;
 }
 
-header{
-    background-color: #5f29a3;
-    padding: 45px 0;
-}
+/* typography */
 
 h1{
     color: whitesmoke;
@@ -17,7 +21,7 @@ h1{
 }
 
 h2{
-    margin-top: 0;
+    margin: 0;
 }
 
 h3{
@@ -25,6 +29,8 @@ h3{
     font-size: 20px;
     margin:0;
 }
+
+/* links */
 
 a{
     color: #ef5839;
@@ -39,16 +45,12 @@ a:active{
     color: #d4b44c;
 }
 
-/* 
-Challenge:
-1. In index.html, wrap the contents of the
-   header and sections in container divs.
-2. Create a selector and add the properties 
-   needed to fix the content width and align
-   it to the center.
-⚠️ The background colors must stay full 
-   width!
-*/
+/* layout */
+
+header{
+    background-color: #5f29a3;
+    padding: 45px 0;
+}
 
 section{
     padding: 45px 0;
@@ -62,3 +64,5 @@ section{
 .main-image{
     width:100%;
 }
+
+
