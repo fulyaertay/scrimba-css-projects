@@ -10,10 +10,24 @@ header{
     padding: 45px 0;
 }
 
+/* 
+Challenge:
+1. Add CSS so the text in the first section 
+   renders correctly. 
+⚠️ Watch out for the amount of white space 
+   you have between the start of the section 
+   and the h2.
+⚠️ Don't write too much code!
+*/
+
 h1{
     color: whitesmoke;
     font-size: 36px;
     margin: 0;
+}
+
+h2{
+    margin-top: 0;
 }
 
 h3{
@@ -22,6 +36,7 @@ h3{
     margin:0;
 }
 
+
 section{
     padding: 45px 0;
 }
@@ -29,5 +44,3 @@ section{
 .main-image{
     width: 100%;
 }
-
-
