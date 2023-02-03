@@ -42,12 +42,8 @@ a:hover, a:active{
 
 /* 
 Challenge:
-1. Style the 4 button-style links as per 
-   the specifications on the slide.
-2. Remember to group the selectors
-   where possible to keep the CSS DRY.
-⚠️ Think: what would make good class
-   names for these links? 
+1. Use the "display" property to make the
+   new links behave more like buttons!
 */
 
 .btn-dark,
@@ -57,6 +53,7 @@ Challenge:
     border-radius: 4.6px;
     font-weight: 500;
     text-decoration: none;
+    display: inline-block;
 }
 
 .btn-dark{
@@ -83,13 +80,6 @@ Challenge:
     background-color: #f3e885;
     color: #2b283a;
 }
-
-
-
-
-
-
-
 
 /* layout */
 
