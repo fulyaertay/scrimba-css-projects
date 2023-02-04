@@ -32,7 +32,7 @@
   
     ## Description
   ```bash
-  - The project provides an design for online photo-sharing and social network platform
+  - The project provides online photo-sharing and social network platform design
   ```
   
   ### Visulation of the App 
