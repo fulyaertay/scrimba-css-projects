@@ -18,7 +18,7 @@
   
   ## Description
   ```bash
-  - The project provides to list NFT sneakers 
+  - The project is designed to list NFT sneakers 
   ```
 
   ### Visulation of the App
