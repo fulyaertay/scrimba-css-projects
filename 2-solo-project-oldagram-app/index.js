@@ -27,4 +27,9 @@ const posts = [
         likes: 152
     }
 ]
+const likeBtn=document.getElementById("like")
+function colorFill(){
+    likeBtn.class.add("fillRed")
 
+
+}

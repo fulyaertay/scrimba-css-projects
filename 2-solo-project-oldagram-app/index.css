@@ -87,6 +87,10 @@ p{
     opacity: .6; 
     transform: scale(1.3);
 }
+fillRed{
+
+    background-color: red;
+}
 
 .comment{
     margin-bottom: 40px;
