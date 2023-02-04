@@ -6,6 +6,7 @@ html, body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 100vh;
 }
 
 .container{
@@ -13,7 +14,7 @@ html, body {
     justify-content: space-between;
     align-items: center;
     width:400px;
-    margin: 10px;
+
 
 }
 
@@ -23,6 +24,7 @@ header{
     align-items: center;
     width:400px;
     border-bottom: 1px solid gray;
+    margin-top: 200px;
 }
 
 .logo{
@@ -39,12 +41,14 @@ header{
     align-items: center;
     width: 400px;
     margin-top: 30px;
+    margin-bottom: 0px;
 }
 .userInfo{
     display: flex;
     flex-direction: column;
     justify-content: center;
     margin-left: 12px;
+
 }
 .avatar2{
     width:40px;
@@ -54,6 +58,7 @@ header{
 h4{
     display: inline-block;
     margin-bottom: 0px;
+    margin-top: 10px;
 }
 p{
     display: inline-block;
@@ -61,6 +66,7 @@ p{
 }
 .post{
     width:100%;
+    margin-bottom: 10px;
 
 }
 
@@ -75,4 +81,8 @@ p{
     margin-right: 10px;
     width:20px;
     height: 20px;
+}
+
+.comment{
+    margin-bottom: 40px;
 }
