@@ -34,3 +34,16 @@ header{
     border-radius: 50%;
 }
 
+.userContent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-right: 220px;
+    margin-top: 30px;
+}
+.userInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
