@@ -15,4 +15,4 @@
   ### 1-NFT Site App
   ### Visulation of the App 
 
-    ![image](./1-NFT-site/nft-site.png)
+    ![image](./1-NFT Site/nft-site.png)
