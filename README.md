@@ -21,4 +21,4 @@
   ### Visulation of the App
 
 
-![](./1-NFT Site/nft-site.png)
+  ![](./1-NFT Site/nft-site.png)
