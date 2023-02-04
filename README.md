@@ -21,4 +21,4 @@
   ### Visulation of the App
 
 
-![](assets/20230204_031459_nft-site.png)
+![](./1-NFT Site/nft-site.png)
