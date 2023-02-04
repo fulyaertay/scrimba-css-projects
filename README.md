@@ -28,7 +28,7 @@
  
   ### 2-Solo Project: Oldagram App
   ### Visulation of the App 
-  [Live Link:](https://scrimba-oldagram-app.netlify.app/)
+  ###[Live Link:](https://scrimba-oldagram-app.netlify.app/)
 
     ![image](./2-solo-project-oldagram-app/oldagram.png)
     
