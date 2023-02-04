@@ -22,3 +22,19 @@
 
 
   ![](./1-NFT-site/nft-site.png)
+
+
+ 
+  ### 2-Solo Project: Oldagram App
+  ### Visulation of the App 
+
+    ![image](./7-solo-project-oldagram-app/oldagram.png)
+    
+
+  ### Stretch Goals: COMPLETED ✅
+
+  - Create the first post ✅
+  - Use semantic HTML ✅
+  - Add hover effects to the icons ✅
+  
+  
