@@ -85,6 +85,8 @@ Challenge:
    and 6px from the right. 
 */
     position: fixed;
+    justify-content: center;
+    align-items: center;
     bottom: 6px;
     right: 6px;
     background-color: #dda15e;
@@ -97,7 +99,7 @@ Challenge:
 }
 
 .chatbox-img {
-    margin: auto;
+
     width: 50%; 
 }
 
