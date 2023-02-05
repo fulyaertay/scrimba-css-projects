@@ -21,7 +21,7 @@ ul {
     align-items: center;
     margin: 0;
     padding: 25px;
-    gap: 10px;
+    gap: 10px
 }
 
 li {
@@ -30,6 +30,17 @@ li {
 
 .icon {
     width: 25px;
+}
+
+.align-right {
+    margin-left: auto;
+/* 
+Challenge:
+1. Add a line of CSS to position the menu 
+   icon at the right-hand end of the ul 
+   element. The logo and location pin should 
+   remain where they are.
+*/
 }
 
 h1 {
@@ -45,9 +56,3 @@ h1 {
 .caption {
     margin: 0 25px;
 }
-
-/*
-Challenge:
-1. Get this layout looking like the 
-   screenshots on the slide.
-*/  
