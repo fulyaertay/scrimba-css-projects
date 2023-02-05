@@ -17,7 +17,7 @@
 
   ### 1-NFT Site App
   
-  ## Description
+  ### Description
   ```bash
   - The project is designed to list NFT sneakers 
   ```
@@ -26,12 +26,26 @@
 
 
   ![image](./1-NFT-site/nft-site.png)
+  
+  
+  
+  ### 2-Coworking Space Site 
+  
+  ### Description
+  ```bash
+  - The project is designed to list the best coworking spaces for lazy devs.
+  ```
+
+  ### Visulation of the App
+
+
+  ![image](./2-coworking-space-site/coworking-space.png)
 
 
  
   ### 3-Solo Project: Oldagram App
   
-    ## Description
+  ### Description
   ```bash
   - The project is designed for online photo-sharing and social network platform 
   ```
@@ -39,7 +53,7 @@
   ### Visulation of the App 
   ### [Live Link:](https://scrimba-oldagram-app.netlify.app/)
 
-    ![image](./2-solo-project-oldagram-app/oldagram.png)
+    ![image](./3-solo-project-oldagram-app/oldagram.png)
     
 
   ### Stretch Goals: COMPLETED ✅
