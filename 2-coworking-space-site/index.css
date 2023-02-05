@@ -34,19 +34,16 @@ li {
 
 .align-right {
     margin-left: auto;
-/* 
-Challenge:
-1. Add a line of CSS to position the menu 
-   icon at the right-hand end of the ul 
-   element. The logo and location pin should 
-   remain where they are.
-*/
-}
+} 
 
 h1 {
     font-size: 40px;
     font-weight: 400;
     margin: 30px 25px;
+}
+
+.item {
+    position: relative;
 }
 
 .item-img {
@@ -56,3 +53,20 @@ h1 {
 .caption {
     margin: 0 25px;
 }
+
+.img-banner {
+/*
+Challenge:
+1. Position the image banner at the top left 
+   of the first image as per the slide. What
+   CSS do you need to add to the parent 
+   element to make this work?
+*/ 
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #cd6858;
+    color: whitesmoke;
+    padding: 10px;
+}
+
