@@ -17,7 +17,7 @@
 
   ### 1-NFT Site App
   
-  ## Description
+  ### Description
   ```bash
   - The project is designed to list NFT sneakers 
   ```
@@ -31,7 +31,7 @@
   
   ### 2-Coworking Space Site 
   
-  ## Description
+  ### Description
   ```bash
   - The project is designed to list the best coworking spaces for lazy devs.
   ```
@@ -45,7 +45,7 @@
  
   ### 3-Solo Project: Oldagram App
   
-    ## Description
+  ### Description
   ```bash
   - The project is designed for online photo-sharing and social network platform 
   ```
