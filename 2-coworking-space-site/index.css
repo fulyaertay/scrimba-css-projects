@@ -47,26 +47,46 @@ h1 {
 }
 
 .item-img {
+/*
+Challenge:
+1. Find the cause of the white space between 
+   the top of the button and the bottom of 
+   the image and eliminate it!
+*/
+    display: block;
     width: 100%;
 }
 
 .caption {
+/*
+Challenge:
+1. Position the text and button at opposite
+   ends of the parent element. Make sure that 
+   there is always at least 20px of space 
+   between the button and the text, even when 
+   you make the browser narrower.
+*/
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
     margin: 0 25px;
 }
 
-.img-banner {
-/*
-Challenge:
-1. Position the image banner at the top left 
-   of the first image as per the slide. What
-   CSS do you need to add to the parent 
-   element to make this work?
-*/ 
+.img-banner { 
     position: absolute;
     top: 0;
     left: 0;
     background-color: #cd6858;
     color: whitesmoke;
     padding: 10px;
+}
+
+button {
+    border: none;
+    background-color: #cd6858;
+    color: whitesmoke;
+    padding: 10px 15px;
+    font-weight: 700;
+    cursor: pointer;
 }
 
