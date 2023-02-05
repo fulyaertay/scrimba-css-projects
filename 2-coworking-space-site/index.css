@@ -65,15 +65,9 @@ h1 {
     background-color: #cd6858;
     color: whitesmoke;
     padding: 10px;
-} 
+}
 
 button {
-/*
-Challenge:
-1. Centrally align the button on the 
-   vertical axis so it looks like the 
-   screenshot on the slide.
-*/
     align-self: center;
     border: none;
     background-color: #cd6858;
@@ -81,5 +75,29 @@ Challenge:
     padding: 10px 15px;
     font-weight: 700;
     cursor: pointer;
+}
+
+.chatbox-bg {
+/*
+Challenge:
+1. Position the chatbox in the bottom 
+   corner of the window, 6px from bottom
+   and 6px from the right. 
+*/
+    position: fixed;
+    bottom: 6px;
+    right: 6px;
+    background-color: #dda15e;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 1px 1px 5px #999;
+    display: flex;
+}
+
+.chatbox-img {
+    margin: auto;
+    width: 50%; 
 }
 
