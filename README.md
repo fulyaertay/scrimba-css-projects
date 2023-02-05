@@ -5,7 +5,8 @@
 - [Projects](#projects)
 
   - [1-NFT Site App](#nft-site)
-  - [2-Solo Project: Oldagram App](#oldagram-site)
+  - [2-Coworking Space Site App](#space-site)
+  - [3-Solo Project: Oldagram App](#oldagram-site)
 
   ## Overview
 
@@ -28,7 +29,7 @@
 
 
  
-  ### 2-Solo Project: Oldagram App
+  ### 3-Solo Project: Oldagram App
   
     ## Description
   ```bash
